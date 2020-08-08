@@ -1,7 +1,15 @@
-no estoy seguro de commitear 
+1) no estoy seguro de commitear 
 
-git reset HEAD main.js (unstage)
+git reset HEAD main.js (unstage) nombre archivo
+
+2) encontramos un error luego de commitear, no confirmamos:
+git reset HEAD index.html
+
+hacemos la correccion
+
+3) revertir cambios
+git checkout -- index.html
 
 
-
-
+4) recuperar archivo borrado
+git checkout style.css
