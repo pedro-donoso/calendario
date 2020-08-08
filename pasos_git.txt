@@ -1,0 +1,6 @@
+no estoy seguro de commitear 
+
+git reset HEAD main.js (unstage)
+
+
+
