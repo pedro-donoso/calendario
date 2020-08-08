@@ -36,6 +36,26 @@ git branch
 10) cambiar a rama principal 
 git checkout master
 
+* siempre commitear antes de cambiar de ramas
+
+11) borrar rama
+
+git branch -d fondo-verde (nombre archivo) si no se ha commiteado lanzará error
+
+git branch -D fondo-verde (SOLUCION)
+
+12) fusionar 2 ramas
+primero ir a rama definitiva
+- git checkout master
+
+- git merge nuevo-titulo (rama que queremos integrar)
+
+
+
+
+
+
+
 
 
 
